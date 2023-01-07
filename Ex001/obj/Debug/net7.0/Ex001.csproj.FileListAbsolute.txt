@@ -1,0 +1,15 @@
+C:\Kate\Тестирование\Repo\Examples\Ex001\bin\Debug\net7.0\Ex001.exe
+C:\Kate\Тестирование\Repo\Examples\Ex001\bin\Debug\net7.0\Ex001.deps.json
+C:\Kate\Тестирование\Repo\Examples\Ex001\bin\Debug\net7.0\Ex001.runtimeconfig.json
+C:\Kate\Тестирование\Repo\Examples\Ex001\bin\Debug\net7.0\Ex001.dll
+C:\Kate\Тестирование\Repo\Examples\Ex001\bin\Debug\net7.0\Ex001.pdb
+C:\Kate\Тестирование\Repo\Examples\Ex001\obj\Debug\net7.0\Ex001.csproj.AssemblyReference.cache
+C:\Kate\Тестирование\Repo\Examples\Ex001\obj\Debug\net7.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kate\Тестирование\Repo\Examples\Ex001\obj\Debug\net7.0\Ex001.AssemblyInfoInputs.cache
+C:\Kate\Тестирование\Repo\Examples\Ex001\obj\Debug\net7.0\Ex001.AssemblyInfo.cs
+C:\Kate\Тестирование\Repo\Examples\Ex001\obj\Debug\net7.0\Ex001.csproj.CoreCompileInputs.cache
+C:\Kate\Тестирование\Repo\Examples\Ex001\obj\Debug\net7.0\Ex001.dll
+C:\Kate\Тестирование\Repo\Examples\Ex001\obj\Debug\net7.0\refint\Ex001.dll
+C:\Kate\Тестирование\Repo\Examples\Ex001\obj\Debug\net7.0\Ex001.pdb
+C:\Kate\Тестирование\Repo\Examples\Ex001\obj\Debug\net7.0\Ex001.genruntimeconfig.cache
+C:\Kate\Тестирование\Repo\Examples\Ex001\obj\Debug\net7.0\ref\Ex001.dll
